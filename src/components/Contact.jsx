@@ -86,10 +86,10 @@ const Contact = () => {
             marginTop: 10,
           }}
         >
-          <a href="https://github.com/venuswhispers" target="_blank">
+          <a href="https://github.com/hcrypto7" target="_blank">
             <img src={github} height={30} width={30} />
           </a>{" "}
-          https://github.com/venuswhispers
+          https://github.com/hcrypto7
         </div>
         <div
           style={{
